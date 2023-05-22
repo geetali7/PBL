@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836265475603",
+    "project_id": "pblemail-52c46",
+    "storage_bucket": "pblemail-52c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836265475603:android:c4ab3851801073d9fd09e6",
+        "android_client_info": {
+          "package_name": "com.example.pbl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836265475603-es8plbg4ff5vipsht8uruo1e9fuut3o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pbl",
+            "certificate_hash": "6e97bf8df5c9e79541f3c7628fba33a64686717a"
+          }
+        },
+        {
+          "client_id": "836265475603-5mfhscioingu32264kiqclhc5le1ni93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnY-KA6ELDDQ-PzARbu4L9rxoxv2V4JXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836265475603-5mfhscioingu32264kiqclhc5le1ni93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
