@@ -123,20 +123,20 @@ class _MyLoginState extends State<MyLogin> {
                                 Navigator.pushNamed(context, 'register');
                               },
                               child: const Text(
-                                  'Not a user?\n Create an \nAccount',
+                                  'Not a user? Create an Account',
                                   style: TextStyle(
                                       decoration: TextDecoration.underline,
                                       fontSize: 18,
                                       color: Color(0xff4c505b)))),
-                          TextButton(
-                              onPressed: () {
-                                Navigator.pushNamed(context, 'forgot');
-                              },
-                              child: const Text('Forgot Password ? ',
-                                  style: TextStyle(
-                                      decoration: TextDecoration.underline,
-                                      fontSize: 18,
-                                      color: Color(0xff4c505b))))
+                          // TextButton(
+                          //     onPressed: () {
+                          //       Navigator.pushNamed(context, 'forgot');
+                          //     },
+                          //     child: const Text('Forgot Password ? ',
+                          //         style: TextStyle(
+                          //             decoration: TextDecoration.underline,
+                          //             fontSize: 18,
+                          //             color: Color(0xff4c505b))))
                         ],
                       )
                     ],
